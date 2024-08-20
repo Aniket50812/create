@@ -1,0 +1,32 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 50px;
+    background-color: rgb(220, 237, 243);
+    padding-top: 200px;
+}
+h1{
+    color: brown;
+    text-align: center;
+    text-decoration: underline;
+    font-size: 50px;
+}
+p{
+    font-size: 25px;
+    color: rgb(249, 78, 5);
+    text-decoration: dotted;
+}
+input {
+    margin: 10px;
+}
+
+button {
+    background-color: green;
+    margin: 10px;
+}
+
+#result {
+    font-size: 1.5em;
+    font-weight: bold;
+    margin-top: 20px;
+}
